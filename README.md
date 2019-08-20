@@ -40,7 +40,7 @@ Reminders:
 -ONLY VHAM, UHAM, VDMR, UDMR, CAPTN,VPKT, UPKT, and APRS are HAM frequencies. All other frequencies will need permission/licensing to transmit on.
 <BR />
 TAC 310-319, DM3, and BM93 should not be used for Cherokee ARES NETS. These are Nation Wide Channel, Use for Short QSO's only.
-<BR />
+<BR /><BR />
 W4KIP# is on PineLog. We have permission to use TG9 on the PineLog Repeater for ARES NETS as this local channel from the repeater owner.
 <BR />
 Zone DMR ARES has standard Cherokee ARES DMR Channels programmed into Zone including GA, Atlanta Metro, TG9 for ARES Nets and TG2
@@ -56,15 +56,15 @@ Contact Name Abbreviations:
 BM=BandMeister,
 <BR />
 DM=DMR-Marc
-<BR />
+<BR /><BR />
 ** Depending on Repeater your using you may or may not be able to access certain BM or DM channels
-<BR />
+<BR /><BR />
 Echo/Parrot is not fully supported on all repeaters. Zone DMR Echo has the currently known working repeater.
-<BR />
+<BR /><BR />
 Atlanta Metro has a Wednesday Night DMR Net, During the Net both both DM-8 and BM-31131 are bridged together, giving you more options to access the NET when away from your normal repeater.
-<BR />
+<BR /><BR />
 Comment: We are still learning and adjusting DMR codeplug, please be patient as we continue to make improvements.
-<BR />
+<BR /><BR />
 Thank you,
 <BR />
 KK4YQV and W1JKU
