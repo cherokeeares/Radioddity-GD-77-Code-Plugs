@@ -53,7 +53,7 @@ Added Contact and Zone for BrandMeister Hurricane Talk Group
 <BR /><BR />
 Contact Name Abbreviations:
 <BR />
-BM=BandMeister,
+BM=BandMeister
 <BR />
 DM=DMR-Marc
 <BR /><BR />
