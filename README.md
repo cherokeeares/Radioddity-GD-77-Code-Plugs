@@ -3,9 +3,9 @@ Cherokee County ARES Radioddity GD-77 Code Plugs
 <BR /><BR />
 BETA RELEASE - Cherokee ARES Radio Code Plug for the Radioddity GD-77. If you have a Radioddity GD-77 please make a backup of your current configuration and load this file. Please let me know of any changes that need to be made or if any of the information is incorrectly programmed.
 <BR /><BR />
-The most recent firmware is 3.1.8
+The most recent firmware is 4.2.8
 <BR /><BR />
-The most recent programming software is 3.1.1
+The most recent programming software is 3.1.9
 <BR /><BR />
 As a reminder,
 <BR />
