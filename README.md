@@ -7,6 +7,10 @@ The most recent firmware is 4.2.8
 <BR /><BR />
 The most recent programming software is 3.1.9
 <BR /><BR />
+Here is a link to the software:
+<BR />
+https://gd-77.s3.amazonaws.com/2019-12-04%20GD-77%20CPS%20%26%20Firmware%20Changelog.zip
+<BR /><BR />
 As a reminder,
 <BR />
 You update firmware by powering off radio, plugging in cable.
